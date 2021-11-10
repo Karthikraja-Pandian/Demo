@@ -6,4 +6,6 @@ Whatsapp code
 
 3. Lastseen Code:
 
-4. Sending images, files code
+4. Sending images, files code:
+
+5. Hiding last seen code:
